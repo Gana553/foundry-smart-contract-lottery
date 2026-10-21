@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+out/
+cache/
+broadcast/
+coverage.txt
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
